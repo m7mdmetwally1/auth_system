@@ -1,0 +1,19 @@
+{
+  "name": "auth-system",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m7mdmetwally1/auth_system.git"
+  },
+  "author": "m7md-metwally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m7mdmetwally1/auth_system/issues"
+  },
+  "homepage": "https://github.com/m7mdmetwally1/auth_system#readme",
+  "description": ""
+}
